@@ -1,0 +1,71 @@
+
+
+{
+    "cameras": [
+      {
+        "id": 1,
+        "brand": "Nikon",
+        "model": "D850",
+        "rating": 4.69,
+        "price": 2799,
+        "description": "The Nikon D850 is a high-resolution full-frame DSLR camera, perfect for professional photographers. It features an impressive 45.7-megapixel sensor and offers exceptional image quality and dynamic range.",
+        "comment": "Great camera! Amazing image quality.",
+        "user":"john dee",
+        "images": [
+          
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1600882265_IMG_855257.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1503543613_IMG_855260.jpg",
+          "https://static.bhphoto.com/images/multiple_images/images500x500/1503543613_IMG_855258.jpg"
+        ]
+        
+      },
+      {
+        "id": 2,
+        "brand": "Canon",
+        "model": "EOS 5D Mark IV",
+        "rating": 4.69,
+        "price": 2499,
+        "description": "The Canon EOS 5D Mark IV is a professional-grade full-frame DSLR camera. It offers a 30.4-megapixel sensor, advanced autofocus, and 4K video recording capabilities, making it a versatile choice for both photographers and videographers.",
+        "comment": "Great camera! Amazing image quality.",
+        "user":"Marry",
+        "images": [
+          "https://in.canon/media/migration/shared/live/products/EN/eos-5d-mk-iv-ef24-105mm-b1.png",
+          "https://in.canon/media/migration/shared/live/products/EN/eos-5d-mk-iv-ef24-105mm-b2.png",
+          "https://in.canon/media/migration/shared/live/products/EN/eos-5d-mk-iv-ef24-105mm-b3.png",
+          "https://in.canon/media/migration/shared/live/products/EN/eos-5d-mk-iv-ef24-105mm-b5.png"
+        ]
+      },
+      {
+        "id": 3,
+        "brand": "Sony",
+        "model": "Alpha A7 III",
+        "rating": 4.69,
+        "price": 1999,
+        "description": "The Sony Alpha A7 III is a mirrorless camera with a full-frame sensor. It combines high-resolution stills with impressive low-light performance and advanced autofocus capabilities. The A7 III is a popular choice among enthusiasts and professionals alike.",
+        "comment": "Great camera! Amazing image quality.",
+        "user":"Rohith",
+        "images": [
+          "https://d13o3tuo14g2wf.cloudfront.net/thumbnails%2Flarge%2FAsset+Hierarchy%2FConsumer+Assets%2FDigital+Imaging%2FeComm+Hero+Images%2FILCE7M3%2FILCE+7M3-01.png.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTNvM3R1bzE0ZzJ3Zi5jbG91ZGZyb250Lm5ldC90aHVtYm5haWxzJTJGbGFyZ2UlMkZBc3NldCtIaWVyYXJjaHklMkZDb25zdW1lcitBc3NldHMlMkZEaWdpdGFsK0ltYWdpbmclMkZlQ29tbStIZXJvK0ltYWdlcyUyRklMQ0U3TTMlMkZJTENFKzdNMy0wMS5wbmcucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoyMTQ1NzYyMDAwfX19XX0_&Signature=EICI~WFdJidPSU4QO-XHzdivVUULE0iShkmfBLsZBijegYMC9cjPfQEJsqp7we7w67nRDowJpAeNXIyEZlMgNDdhkoIcOdi9kZslyepm9AH6WZL49lR-dM5l3bsEY56p4VEFzZWMvIuGxyoGXygzFkXOoixL5AJaXF1WrAwwU40DC6H6~PqefFovYVoDhU-WQ0kZVMiwAx4jVJufE6eI8f0JMFeNmCd4SFr8GVGhowRqTE6xDHBqyRKcqZttdJYQR3L0~6IewaSf2xRmFCvYTnZJymmumdtANixCV68fZWFLWW2h0aoDTSEBfadd8LLZ7JxBFAjEgk~dg9fRPAyPiQ__&Key-Pair-Id=K37BLT9C6HMMJ0",
+          "https://d13o3tuo14g2wf.cloudfront.net/thumbnails%2Flarge%2FAsset+Hierarchy%2FConsumer+Assets%2FDigital+Imaging+%28Assets%29%2FeComm+Hero+Images%2FILCE7M3%2F02+A73_rear_US.png.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTNvM3R1bzE0ZzJ3Zi5jbG91ZGZyb250Lm5ldC90aHVtYm5haWxzJTJGbGFyZ2UlMkZBc3NldCtIaWVyYXJjaHklMkZDb25zdW1lcitBc3NldHMlMkZEaWdpdGFsK0ltYWdpbmcrJTI4QXNzZXRzJTI5JTJGZUNvbW0rSGVybytJbWFnZXMlMkZJTENFN00zJTJGMDIrQTczX3JlYXJfVVMucG5nLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MjE0NTc2MjAwMH19fV19&Signature=bRj7MVeNkg5blljnULfM2Ae~DyvGpjpH5ug-99TPcwXmDOmGsWQsx3mwbF6xqYZmaADi2Czk1UdGvQ1ixRfD1OTGo84CW--7Cm4t8G6NZVcs89yn4By0~jUKVuqF7XgiKeHqn4Z5cdWyva5EVzzA9JvB2YgDBn23Cuhmy2MWj0VwkyLZssdi-oUyExATEeh2~0guwOIKtlHjy3xPs8uNp4x~bhbWGin2nAbk68YHkQNe4Ji0NmO8TDbt0Dp5YB8cDDbBkmT5pdE61PFUG0X7IIOx9OhsMdLYmaFHEBahaFyC~BizrI7gM924bZzxuB4MqaBj~W0toHVJmilRu-okxA__&Key-Pair-Id=K37BLT9C6HMMJ0",
+          "https://d13o3tuo14g2wf.cloudfront.net/thumbnails%2Flarge%2FAsset+Hierarchy%2FConsumer+Assets%2FDigital+Imaging+%28Assets%29%2FeComm+Hero+Images%2FILCE7M3%2F04+ILCE7M3_terminal.png.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTNvM3R1bzE0ZzJ3Zi5jbG91ZGZyb250Lm5ldC90aHVtYm5haWxzJTJGbGFyZ2UlMkZBc3NldCtIaWVyYXJjaHklMkZDb25zdW1lcitBc3NldHMlMkZEaWdpdGFsK0ltYWdpbmcrJTI4QXNzZXRzJTI5JTJGZUNvbW0rSGVybytJbWFnZXMlMkZJTENFN00zJTJGMDQrSUxDRTdNM190ZXJtaW5hbC5wbmcucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoyMTQ1NzYyMDAwfX19XX0_&Signature=IL0~-vRgGYUD~125sbIb3vInOkDLzcia3CY99YBj9FZOzgM5Bzh25kptfBfX6IQH6eD9K4Qf0D0uYXPOUGb~-G5IZ6MtFxjPEez19Vm8a0~pxiPg9AkElBKfjzkYlCfK76UN1yFOmDa8-08jwoPzrQb6E1QzY4J-ihRpQOfmeRaxwGjI4KiuZPl1skX1nVflOuybvnAAlPk~ycomAGNRkxDLMWs7xoOiJ5aCjyn7XySIgC-r5NmgGxCloxrHytoo6Yghoj8U7xB2Nb-AsQWj725S1p3tpXPgoQgNGvewYZvicBD1l1o2aQKUEQNYLBos0dIKpMWCJMD1tAN-~iRMzQ__&Key-Pair-Id=K37BLT9C6HMMJ0",
+          "https://d13o3tuo14g2wf.cloudfront.net/thumbnails%2Flarge%2FAsset+Hierarchy%2FConsumer+Assets%2FDigital+Imaging+%28Assets%29%2FeComm+Hero+Images%2FILCE7M3%2F09+ILCE7M3_tilt_high.png.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTNvM3R1bzE0ZzJ3Zi5jbG91ZGZyb250Lm5ldC90aHVtYm5haWxzJTJGbGFyZ2UlMkZBc3NldCtIaWVyYXJjaHklMkZDb25zdW1lcitBc3NldHMlMkZEaWdpdGFsK0ltYWdpbmcrJTI4QXNzZXRzJTI5JTJGZUNvbW0rSGVybytJbWFnZXMlMkZJTENFN00zJTJGMDkrSUxDRTdNM190aWx0X2hpZ2gucG5nLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MjE0NTc2MjAwMH19fV19&Signature=hE-bVhcru92h~zLJOfK6YVhcI2zc54d2E48sONv5wTPhi5KvYh4R4QUiA1Xq6Q~uhINh4efIrEOTLC-A~mVbYqRQPmhnucjVi~w8uA5s6pAZmqmG6rU7M-pHJUjQOSz6MZrQBrLc-AjOYtwYZ0EqA5u~NTegxx58b2VnBYIPFo-ylWYY-6c6ggn66LXlVTnGKINaHqDtI~lBseLRmR5CZRRIp-a-tqJnxKj5I33QtYTiQiPpBhDDFhA5Y5AHEc5e8DthadLXXUfYMG45VsHIx6LfU~gcDnIx~XXEghIraV8JY6Jt9NU~MHZb2lTgPg3Ys-sbuLfuUyAPP5TBGhJKkA__&Key-Pair-Id=K37BLT9C6HMMJ0"
+        ]
+      },
+      {
+        "id": 4,
+        "brand": "Fujifilm",
+        "model": "X-T4",
+        "rating": 4.69,
+        "price": 1699,
+        "description": "The Fujifilm X-T4 is a versatile mirrorless camera that offers a balance of image quality, performance, and portability. It features a 26.1-megapixel APS-C sensor, in-body image stabilization, and a wide range of compatible lenses.",
+        "comment": "Great camera! Amazing image quality.",
+        "user":"sohail",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ-pH3B_9KqydzG8mMEQ4XXacckz4XKyH70_JIsDl7MA6iH7gfiQBpTVyKljnFf8s10lulNXe52Unkt23z0ERYccGj8zJVXvw",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSxPGLVH6drH2Cv6IWXmZwwtPGDSReaIyPIuK1GWtathgCXVq5YNYzIIii7ssb8Zwm0_IvcHvPKF62-ztIG1L1rCJkhK1nz",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRc0QZRNUKynV-_3VEksOquZfZlZhaUDugvtmlU3zHCcze_FARJ5CWslbWN0f0CCs0a96f4iqjcZhTumuhNd1mXKvmPUCwX",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8dVeUcwBq3xaEoHRbyXnj7EJ0bVxyLYYAx-75Msjpc_0p7SKJpDU-8yKpSu3xz0Ezkor5H7AQteoxAZyW2j9VQoraMQYEYg"
+        ]
+      }
+    ]
+  }
